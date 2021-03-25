@@ -1,5 +1,6 @@
 # Blockchain_Capstone
 ## UNIV. Pass
+![KakaoTalk_20210323_135258322](https://user-images.githubusercontent.com/65976572/112437406-43f40180-8d8a-11eb-945d-d7eaaab5edfe.png)
 ### Kyonggi Univ. Capstone Blockchain Team
 
 경기대학교 컴퓨터공학부
