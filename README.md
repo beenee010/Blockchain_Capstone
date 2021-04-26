@@ -580,7 +580,13 @@ pool(12345):indy> wallet open test_wallet key
 Enter value for key:
 
 Wallet "test_wallet" isn't attached to CLI
-```
+```![_2021 _4 _11 __9 19](https://user-images.githubusercontent.com/65976572/116072253-d0ffe280-a6c9-11eb-8440-420a70353be7.jpg)
+![_2021 _4 _11 __9 24](https://user-images.githubusercontent.com/65976572/116072265-d3fad300-a6c9-11eb-9147-4f2e50fdd6d9.jpg)
+![_2021 _4 _11 __9 29_2](https://user-images.githubusercontent.com/65976572/116072273-d4936980-a6c9-11eb-910e-0f743c9d43da.jpg)
+![_2021 _4 _11 __9 29](https://user-images.githubusercontent.com/65976572/116072278-d52c0000-a6c9-11eb-837a-93f80ff21377.jpg)
+![Untitled 1](https://user-images.githubusercontent.com/65976572/116072282-d5c49680-a6c9-11eb-8ba0-104c1957ccf2.png)
+![Untitled](https://user-images.githubusercontent.com/65976572/116072284-d5c49680-a6c9-11eb-9011-f56bf7590c0c.png)
+
 
 ```bash
 pool(12345):indy> wallet attach test_wallet
